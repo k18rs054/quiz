@@ -237,6 +237,7 @@ function displayQuiz(quiz){
         ons.compile(btn[0]);
     }
     
+    
     //選択肢がタッチされたときに正誤判定を行うため、正解を保持する
     answerText = quiz.get("answer");
 }
